@@ -7,7 +7,7 @@ I'm Naveensankar S
 🌱 Currently learning Java, Git & GitHub  
 🚀 Exploring Web Development and Programming  
 
-## Skills I'm Learning
+## Tech Stack & Learning
 - Java
 - Git & GitHub
 - HTML
