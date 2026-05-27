@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**naveensankar2007/naveensankar2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naveensankar S
 
-Here are some ideas to get you started:
+🎓 ECE Student  
+💻 Interested in Software Development & IT  
+🌱 Currently learning Java, Git & GitHub  
+🚀 Exploring Web Development and Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Learning
+- Java
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+## Goals
+- Build real-world projects
+- Improve coding skills
+- Get internship opportunities
+- Become a Software Developer
+
+## Connect With Me
+- GitHub: https://github.com/naveensankar2007
+
+Thanks for visiting my profile 😄
